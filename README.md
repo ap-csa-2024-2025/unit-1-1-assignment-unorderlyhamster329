@@ -23,7 +23,7 @@ In `problem2.java` write a program which prints the phrase “Coding is fun!” 
 ```
 Coding is fun! 
 Coding is fun! 
-Coding is fun!
+Coding is buns!
 ```
 
 ## Problem 3
